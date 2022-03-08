@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "45e7914a_5eb8e2f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-08T23:38:04Z",
+      "side": 1,
+      "message": "AOSP commit, Merged in SV2 beta3, and kernel config matches (selinux_fc\u003d)",
+      "revId": "f5488025f258a284519f9e3e63e108a4e7a041e6",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
